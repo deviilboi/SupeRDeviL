@@ -19,8 +19,8 @@ class Config(object):
     API_HASH = "f0f83c2fcef971f87561229e9097520e"
     TOKEN = "1275607746:AAHrFB3V9HxLmUV57qrBlZ_5gcX-Q01JCbo"
     OWNER_ID = 1200780834  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "ArzooOfficial"
-    SUPPORT_CHAT = '@Tinder_Queens'
+    OWNER_USERNAME = "Theshashank"
+    SUPPORT_CHAT = '@WhiteDevilUserBoT'
 
     #RECOMMENDED
 
