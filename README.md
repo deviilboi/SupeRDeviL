@@ -25,9 +25,15 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 <details>
   <summary>Steps to self Host!! </summary>
 
-# Deploy
+## Deploy to Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/deviilboi/SupeRDeviL))
+- Get your `API_ID` and `API_HASH` from [here](https://my.telegram.org/)    
+
+- Get your `SESSION` from [here](https://repl.it/@TeamUltroid/UltroidStringSession#main.py).   
+
+and click the below button!  <br />  
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 
