@@ -26,7 +26,7 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 You can find my list of available commands with /help.
 
-i'm a group manager bot. Maintained by @HEROGAMERS1
+i'm a group manager bot. Maintained by @TheshashanK
 
 """
 
@@ -52,7 +52,7 @@ And the following:
 SAITAMA_IMG = "https://images.alphacoders.com/679/679719.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-Supporting him; [Hero](t.me/HEROGAMERS1)"""
+Supporting him; [Shashank](t.me/Theshashank)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -155,8 +155,8 @@ def start(update: Update, context: CallbackContext):
                 parse_mode=ParseMode.MARKDOWN,
                 disable_web_page_preview=True,
                 reply_markup=InlineKeyboardMarkup([
-                  [InlineKeyboardButton(text="👸 Add Jassica to your group", url="t.me/{}?startgroup=true".format(context.bot.username))],
-                  [InlineKeyboardButton(text="Source Code", url="https://github.com/QueenArzoo/JassicaRobot"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")]]))
+                  [InlineKeyboardButton(text="👿 Add SupeRDeviL to your group", url="t.me/{}?startgroup=true".format(context.bot.username))],
+                  [InlineKeyboardButton(text="Source Code", url="https://github.com/deviilboi/SupeRDeviL"), InlineKeyboardButton(text="❓ Help", callback_data="help_back")]]))
     else:
         update.effective_message.reply_text("Yo, whadup?")
 
